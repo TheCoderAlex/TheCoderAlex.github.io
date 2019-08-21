@@ -5,7 +5,7 @@ $(document).ready(function () {
     var $leftSidebar = $('.column-left');
     var $rightSidebar = $('.column-right');
     var lastScrollTop = 0;
-    var rightMargin = 20;
+    var rightMargin = 950;
     var bottomMargin = 20;
     var lastState = null;
     var state = {
